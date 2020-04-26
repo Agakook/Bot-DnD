@@ -1,0 +1,12 @@
+{
+  "name": "Projet",
+  "version": "0.1.0",
+  "description": "Bot DnD for roll's",
+  "main": "main.js",
+  "repository": "https://github.com/Agakook/Bot-DnD.git",
+  "author": "Agakook <nicolas.lemoult@outlook.fr>",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^12.2.0"
+  }
+}
